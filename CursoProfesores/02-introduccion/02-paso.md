@@ -15,7 +15,9 @@ Ahora continúa con la presentación del siguiente link:
 
 En la última parte de este módulo, te invitamos a ver "Our little book of culture". Este pequeño manual reúne nuestros principios que guían nuestro día a día. Esperamos que te guste tanto como a nosotros:
 
-https://drive.google.com/file/d/0B7VP2ZeGY3KDclc5SDU5VGk0TVE/view
+<a href="https://drive.google.com/file/d/0B7VP2ZeGY3KDclc5SDU5VGk0TVE/view" target="_blank">Our little book of culture</a>
+
+[https://drive.google.com/file/d/0B7VP2ZeGY3KDclc5SDU5VGk0TVE/view]
 
 Sigues con dudas acerca de Laboratoria? Recuerda que tu training manager es la persona que hemos designado para acompañarte.
 
