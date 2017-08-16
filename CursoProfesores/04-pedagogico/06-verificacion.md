@@ -72,7 +72,7 @@ Si quieres más información, te recomendamos el siguiente archivo: http://www.a
 ### THE END
 
 Esperamos que esta pequeña inducción te sirva para poder realizar mejores clases y estar más consciente de tu práctica pedagógica. 
-El Training Manager será el que te acompañe en tu práctica en el aula donde observará al menos una de tus clases y te realizará feedback. 
-El Training Manager será el que te dará las siguientes fecha para el Trabajo Personal y la Reunión Presencial. 
+El training manager será el que te acompañe en tu práctica en el aula donde observará al menos una de tus clases y te realizará feedback. 
+El training manager será el que te dará las siguientes fecha para el trabajo personal y la reunión presencial. 
 
 [Continuar](../05-tecnico/unica.md)
