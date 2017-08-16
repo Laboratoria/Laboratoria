@@ -10,7 +10,7 @@ Por eso mismo hemos diseñado esta pequeña inducción para ayudarte a tener una
 Los cursos de Educación Continua utilizan la metodología ABP (Aprendizaje Basado en Productos) donde los estudiantes se enfocan en un producto en el transcurso del curso. Este producto hace que el alumno esté activo en el proceso de aprendizaje lo cual lo hace más significativo. 
 Te invitamos a ver este video que ayudará a ejemplificar de mejor manera esta metodología.  
 
-[![Video Aprendizaje basado en productos](http://img.youtube.com/vi/LMCZvGesRz8/0.jpg)](https://www.youtube.com/watch?v=LMCZvGesRz8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LMCZvGesRz8" frameborder="0" allowfullscreen></iframe>
 
 ### META FINAL DE LA SESIÓN
 
