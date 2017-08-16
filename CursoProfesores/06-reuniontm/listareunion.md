@@ -5,11 +5,11 @@ A continuación encontrarás el listado de tareas a revisar junto con tu trainin
 En relación a las funciones que llevarás a cabo frente a las alumnas:
 - Pasar la lista diaria
 - Entregar el contenido y accesos necesarios a plataformas
-- Realizar Encuesta de salida
+- Realizar encuesta de salida
 - Verificar cómo realizar feedback hacia las alumnas
 
 En relación al lugar:
-- Abrir y Cerrar local
+- Abrir y cerrar local
 - Snack para las sesiones presenciales
 - Computadores
 - Reconocimiento del lugar: Proyector, plumones, hojas, materiales, etc
@@ -17,7 +17,7 @@ En relación al lugar:
 
  De las planificaciones y evaluaciones
  - Enviar de planificación del curso.
- - Revisar la planilla evaluación
+ - Revisar la planilla de evaluación
  - Corrección y envío de las notas debe de ser realizado de manera semanal. Recuerda también que las notas finales deben de ser entregadas a más tardar 3 dias del cierre del curso.
  - Planificar las reuniones con tu TM dos veces durante el curso.
  
