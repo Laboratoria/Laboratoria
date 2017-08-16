@@ -6,6 +6,7 @@ Bienvenid@ nuevamente a tu capacitación en Laboratoria. En este módulo aprende
 Primero que nada, Mariana Costa,CEO de Laboratoria te contará sobre nuestra institución.
 
 Mira el siguiente Video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m7UFOtDtHzg" frameborder="0" allowfullscreen></iframe>
 
 [![Video Aprendizaje basado en proyectos](http://img.youtube.com/vi/m7UFOtDtHzg/0.jpg)](https://www.youtube.com/watch?v=m7UFOtDtHzg)
 
