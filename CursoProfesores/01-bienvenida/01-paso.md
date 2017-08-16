@@ -2,14 +2,14 @@
 
 Hola y bienvenid@ al proceso de inducción y capacitación que hemos preparado para los profesores de Laboratoria. Todo este curso es on-line salvo el último punto que es presencial.
 
-En todo este proceso estarás acompañado por tu training manager, quién estará pendiente de tu avance.
+En todo este proceso estarás acompañado por tu training manager, quien estará pendiente de tu avance.
 
-A continuación encontrará los temas que se tratarán durante este curso.
+A continuación encontrarás los temas que se tratarán durante este curso.
 
 
 ### Módulo 1: Introducción
 
-Queremos mostrarte cuál es nuestra visión de la institución y motivarte a ser el mejor profesor que podríamos esperar para nuestras coders. En este módulo encontrarás la misión, la estructura y cómo trabajamos en Laboratoria.
+Queremos mostrarte cual es nuestra visión de la institución y motivarte a ser el mejor profesor que podríamos esperar para nuestras developers. En este módulo encontrarás la misión, la estructura y como trabajamos en Laboratoria.
 
 
 | # | Tipo | Tópico
@@ -22,7 +22,7 @@ Queremos mostrarte cuál es nuestra visión de la institución y motivarte a ser
 
 ### Módulo 2: ¿Qué es Educación Continua?
 
-Aprenderás qué es Educación Continua, objetivos y un poco de historia. Después entenderás nuestro formato de cursos y un esquema de nuestras clases.
+Aprenderás que es Educación Continua, objetivos y un poco de historia. Después entenderás nuestro formato de cursos y un esquema de nuestras clases.
 
 | # | Tipo | Tópico
 | - | ----- | -----
@@ -37,7 +37,7 @@ Aprenderás qué es Educación Continua, objetivos y un poco de historia. Despu�
 
 ### Módulo 3: ¿Cuál es el perfil del profesor en Laboratoria?
 
-A continuación te presentaremos qué esperamos de ti como profesor, tus principales responsabilidades  y terminaremos este módulo con un "Código de Comportamiento" interno de relación con las alumnas.
+A continuación te presentaremos que esperamos de ti como profesor, tus principales responsabilidades  y terminaremos este módulo con un "Código de Comportamiento" interno de relación con las alumnas.
 
 | # | Tipo | Tópico
 | - | ----- | -----
