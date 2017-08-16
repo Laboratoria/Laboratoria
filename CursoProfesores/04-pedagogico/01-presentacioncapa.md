@@ -14,7 +14,7 @@ Te invitamos a ver este video que ayudará a ejemplificar de mejor manera esta m
 
 ### META FINAL DE LA SESIÓN
 
-“Aplicar técnicas pedagógicas en mis clases para tener una mayor efectividad en ellas a través de la práctica y acompañamiento del Training Manager” 
+“Aplicar técnicas pedagógicas en mis clases para tener una mayor efectividad en ellas a través de la práctica y acompañamiento del training manager” 
 
 ### TÉCNICAS EFECTIVAS PARA UNA CLASE
 
