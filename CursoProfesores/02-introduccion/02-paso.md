@@ -11,7 +11,7 @@ Mira el siguiente Video:
 [![Video Aprendizaje basado en proyectos](http://img.youtube.com/vi/m7UFOtDtHzg/0.jpg)](https://www.youtube.com/watch?v=m7UFOtDtHzg)
 
 Ahora continúa con la presentación del siguiente link: 
-<iframe src="https://docs.google.com/presentation/d/1nN2KQZkwm1wPoJErz4ieADH8LWYRSQRuS9L4jyhYw-w/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1nN2KQZkwm1wPoJErz4ieADH8LWYRSQRuS9L4jyhYw-w/embed?start=false&loop=false&delayms=60000" frameborder="0" width="720" height="561" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <a href="https://docs.google.com/presentation/d/1nN2KQZkwm1wPoJErz4ieADH8LWYRSQRuS9L4jyhYw-w/edit?ts=59761292#slide=id.g24a52442f7_0_5" target="_blank">Ver presentación</a>
 
