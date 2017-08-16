@@ -1,7 +1,7 @@
 
 # Introducción
 
-Bienvenid@ nuevamente a tu capacitación en Laboratoria. En este módulo aprenderás un poco más sobre la organización, que hacemos y cuál es la misión que queremos cumplir.
+Bienvenid@ nuevamente a tu capacitación en Laboratoria. En este módulo aprenderás un poco más sobre la organización, que hacemos y cual es la misión que queremos cumplir.
 
 Primero que nada, Mariana Costa,CEO de Laboratoria te contará sobre nuestra institución.
 
