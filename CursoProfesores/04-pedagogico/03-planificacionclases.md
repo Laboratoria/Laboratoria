@@ -15,6 +15,8 @@ Observa el siguiente video para motivar la necesidad de planificar.
 
 [![Video Planificación de clases](http://img.youtube.com/vi/LzRyS0C4cBE/0.jpg)](https://www.youtube.com/watch?v=LzRyS0C4cBE)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LzRyS0C4cBE" frameborder="0" allowfullscreen></iframe>
+
 #### La importancia de planificar
 
 Planificar es una tarea fundamental en el quehacer docente, pues permite unir una teoría pedagógica determinada con la práctica. Es lo que posibilita pensar de manera coherente la secuencia de aprendizajes que se quiere lograr con los estudiantes. De lo contrario, si no se piensa previamente lo que se quiere hacer, es posible que los alumnos y alumnas perciban una serie de experiencias aisladas, destinadas a evaluar la acumulación de aprendizajes más que la consecución de un proceso.
