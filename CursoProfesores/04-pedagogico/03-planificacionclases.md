@@ -13,8 +13,6 @@ Reflexionemos sobre la siguiente situación. Imagina que tienes una reunión muy
 La planificación de una clase se trata de lo mismo. 
 Observa el siguiente video para motivar la necesidad de planificar.
 
-[![Video Planificación de clases](http://img.youtube.com/vi/LzRyS0C4cBE/0.jpg)](https://www.youtube.com/watch?v=LzRyS0C4cBE)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LzRyS0C4cBE" frameborder="0" allowfullscreen></iframe>
 
 #### La importancia de planificar
