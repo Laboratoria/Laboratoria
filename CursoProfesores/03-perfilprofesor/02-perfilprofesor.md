@@ -13,9 +13,12 @@ A continuación te presentamos las responsabilidades y tareas asociadas al profe
 
 Principales responsabilidades:
 
-1) Impartir clases y ser facilitador de un curso 4x4 durante una tarde/noche a la semana como parte de nuestro programa de Educación cContinua.
+1) Impartir clases y ser facilitador de un curso 4x4 durante una tarde/noche a la semana como parte de nuestro programa de Educación Continua.
+
 2) Hacer seguimiento permanente del aprendizaje de las alumnas, incluyendo la evaluación de las developers en el caso de que el curso lo requiera.
+
 3) Promover actividades que ayuden en la superación de dificultades académicas de las estudiantes.
+
 4) Dar feedback al equipo de producto para la mejora continua del curso.
 
 #### Tareas
