@@ -12,11 +12,11 @@ Te invitamos a ver este video que ayudará a ejemplificar de mejor manera esta m
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LMCZvGesRz8" frameborder="0" allowfullscreen></iframe>
 
-### META FINAL DE LA SESIÓN
+### Meta final de la sesión
 
 “Aplicar técnicas pedagógicas en mis clases para tener una mayor efectividad en ellas a través de la práctica y acompañamiento del training manager” 
 
-### TÉCNICAS EFECTIVAS PARA UNA CLASE
+### Técnicas efectivas para una clase
 
 Para esta sesión identificamos seis elementos claves para una clase. Cada uno de estos elementos serán explicados a continuación.
 
