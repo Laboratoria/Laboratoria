@@ -2,7 +2,7 @@
 
 ### a) Creación de Objetivo
 
-Antes de planificar una clase siempre debemos tenemos un objetivo claro sobre la lección que vamos a enseñar. ¿Qué queremos enseñar?, ¿Cómo queremos enseñar?, ¿Para qué queremos enseñar?
+Antes de planificar una clase siempre debemos tener un objetivo claro sobre la lección que vamos a enseñar. ¿Qué queremos enseñar?, ¿Cómo queremos enseñar?, ¿Para qué queremos enseñar?
 
 El objetivo de aprendizaje nos permite tener un norte claro que no solo sirve como punto de partida sino que también nos permite saber a dónde queremos llegar. 
 
