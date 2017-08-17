@@ -27,9 +27,7 @@ d) No se recomienda el uso de términos vagos como "entender", "comprender", "ap
 e) Algunos verbos preferibles son:  definir, identificar, demostrar, comparar, crear, seleccionar, entre otros.
 Ejemplos: Los alumnos serán capaces de diferenciar los paradigmas más en comunes en la programación; Los alumnos serán capaces de resolver ejercicios de programación orientada a objetos y herencia prototipal..
 
-f) El pedagogo y psicólogo Benjamín Bloom hizo una contribución a la taxonomía de los objetivos de aprendizaje. Puedes ver la taxonomía de Bloom en el siguiente link (https://image.slidesharecdn.com/taxonomiadebloom-091106194210-phpapp02/95/taxonomia-de-bloom-1-728.jpg?cb=1257536535) 
-
-f) El pedagogo y psicólogo Benjamín Bloom hizo una contribución a la taxonomía de los objetivos de aprendizaje. Puedes ver la taxonomía de Bloom en el siguiente link <a href="https://image.slidesharecdn.com/taxonomiadebloom-091106194210-phpapp02/95/taxonomia-de-bloom-1-728.jpg?cb=1257536535" target="_blank">link</a>.
+f) El pedagogo y psicólogo Benjamín Bloom hizo una contribución a la taxonomía de los objetivos de aprendizaje. Puedes ver la taxonomía de Bloom en el siguiente <a href="https://image.slidesharecdn.com/taxonomiadebloom-091106194210-phpapp02/95/taxonomia-de-bloom-1-728.jpg?cb=1257536535" target="_blank">link</a>.
 
 [¿List@ para la siguiente técnica?](03-planificacionclases.md)
 
