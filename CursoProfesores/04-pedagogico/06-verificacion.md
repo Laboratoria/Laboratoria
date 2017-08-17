@@ -66,10 +66,8 @@ Para cerrar esta sección te invitamos a ver el siguiente video que da ejemplos.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cUt2mHEiVn8" frameborder="0" allowfullscreen></iframe>
 
-Si quieres más información, te recomendamos el siguiente archivo <a href="http://www.astoreca.cl/wp-content/uploads/2016/12/manuales/Monitoreo-de-la-comprension.pdf" target="_blank">archivo</a>.
+Si quieres más información, te recomendamos el siguiente <a href="http://www.astoreca.cl/wp-content/uploads/2016/12/manuales/Monitoreo-de-la-comprension.pdf" target="_blank">archivo</a>.
 
-
-En la última parte de este módulo, te invitamos a ver <a href="https://drive.google.com/file/d/0B7VP2ZeGY3KDclc5SDU5VGk0TVE/view" target="_blank">Our little book of culture</a>
 
 ### THE END
 
