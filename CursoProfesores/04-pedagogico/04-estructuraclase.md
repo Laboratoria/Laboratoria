@@ -1,6 +1,6 @@
 ## TÉCNICAS EFECTIVAS PARA UNA CLASE
 
-### c) Estructura de una clase
+### c) ESTRUCTURA DE UNA CLASE
 
 Toda clase bien planificada debe seguir un orden claro, que permita tanto al profesor, como a los alumnos visualizar el propósito que se quiere lograr a través de ella. Esto no significa rigidizar la clase, sino ser flexible y oportuno para adaptarse a las necesidades que van surgiendo de los estudiantes y a rediseñar si es necesario, las actividades (individuales o grupales) que se desarrollan,  permitiendo un uso eficiente del tiempo, del espacio y de los recursos. A continuación te invitamos a observar este video de la estructura implementada por un colegio en sus cursos más pequeños. 
 
@@ -65,4 +65,4 @@ Cosas que debemos tener en consideración en esta parte de la clase es:
 - Debemos verificar si el aprendizaje fue efectivo. Esto se puede hacer a través de un test de salida o cualquier otra actividad que nos de data.
 
 
-[Seguimos? Vamos](05-agenda.md)
+[¿SEGUIMOS? VAMOS](05-agenda.md)
