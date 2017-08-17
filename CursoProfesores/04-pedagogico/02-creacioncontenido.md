@@ -10,7 +10,7 @@ Las preguntas iniciales que nos pueden servir para partir pensando en nuestro ob
 
 Es muy importante que el objetivo sea visible y explícito para los alumnos, para que ellos tengan claridad hacia dónde deberían llegar y alinear expectativas. 
 
-#### ¿CÓMO CONSTRUIR UN OBJETIVO DE APRENDIZAJE?
+#### ¿Cómo construir un objetivo de aprendizaje?
 
 A continuación te presentamos un listado a tomar en cuenta para construir un buen objetivo de aprendizaje.
 
@@ -29,7 +29,7 @@ Ejemplos: Los alumnos serán capaces de diferenciar los paradigmas más en comun
 
 f) El pedagogo y psicólogo Benjamín Bloom hizo una contribución a la taxonomía de los objetivos de aprendizaje. Puedes ver la taxonomía de Bloom en el siguiente <a href="https://image.slidesharecdn.com/taxonomiadebloom-091106194210-phpapp02/95/taxonomia-de-bloom-1-728.jpg?cb=1257536535" target="_blank">link</a>.
 
-[¿List@ para la siguiente técnica?](03-planificacionclases.md)
+[¿LIST@ PARA LA SIGUIENTE TÉCNICA?](03-planificacionclases.md)
 
 
 
