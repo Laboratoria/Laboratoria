@@ -8,7 +8,7 @@ Primero que nada, Mariana Costa,CEO de Laboratoria te contará sobre nuestra ins
 Mira el siguiente Video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m7UFOtDtHzg" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="https://drive.google.com/file/d/0B5h-Hkt5a7gSaVZvMUFEQlBtZDA/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/0B5h-Hkt5a7gSaVZvMUFEQlBtZDA/preview" width="560" height="315"></iframe>
 
 Ahora continúa con la presentación: 
 <iframe src="https://docs.google.com/presentation/d/1nN2KQZkwm1wPoJErz4ieADH8LWYRSQRuS9L4jyhYw-w/embed?start=false&loop=false&delayms=60000" frameborder="0" width="720" height="561" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
