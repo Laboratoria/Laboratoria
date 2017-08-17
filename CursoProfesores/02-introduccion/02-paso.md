@@ -1,6 +1,5 @@
 
 # Introducción
-[Bienvenida](../01-bienvenida/01-paso.md) > Introducción
 
 Bienvenid@ nuevamente a tu capacitación en Laboratoria. En este módulo aprenderás un poco más sobre la organización, que hacemos y cual es la misión que queremos cumplir.
 
