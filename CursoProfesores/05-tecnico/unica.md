@@ -10,7 +10,7 @@ Cuando llegues a este punto, comunícate con tu TM para que te haga entrega ofic
 ¡Esperamos que te entretengas muchísimo leyendo el contenido, al igual que lo hicimos nosotros cuando lo creamos!
 
 El paso posterior será el "Team meeting". en el cual te reunirás con el encargado del contenido del curso por parte de Laboratoria junto a tu training manager, donde podrás realizar todas las consultas de contenido que tengas.
-Las preguntas de forma, planificación, agenda día a día, serán respondidas por tu training manager de manera posterior y NO serán tocadas en este reunión en específico.
+Las preguntas de forma, planificación, agenda día a día, serán respondidas por tu training manager de manera posterior y NO serán tocadas en esta reunión en específico.
 
 Al terminar el "Team meeting" tu TM se contactará contigo para la última reunión presencial, la cual marcará el cierre de esta capacitación.
 
