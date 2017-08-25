@@ -2,7 +2,7 @@
 
 ### c) ESTRUCTURA DE UNA CLASE
 
-Toda clase bien planificada debe seguir un orden claro, que permita tanto al profesor, como a los alumnos visualizar el propósito que se quiere lograr a través de ella. Esto no significa rigidizar la clase, sino ser flexible y oportuno para adaptarse a las necesidades que van surgiendo de los estudiantes y a rediseñar si es necesario, las actividades (individuales o grupales) que se desarrollan,  permitiendo un uso eficiente del tiempo, del espacio y de los recursos. A continuación te invitamos a observar este video de la estructura implementada por un colegio en sus cursos más pequeños. 
+Toda clase bien planificada debe seguir un orden claro, que permita tanto al profesor, como a los alumnos visualizar el propósito que se quiere lograr a través de ella. Esto no significa rigidizar la clase, sino ser flexible y oportuno para adaptarse a las necesidades que van surgiendo de los estudiantes y a rediseñar si es necesario, las actividades (individuales o grupales) que se desarrollan,  permitiendo un uso eficiente del tiempo, del espacio y de los recursos. 
 
 La estructura que se propone se divide de la siguiente manera:
 
