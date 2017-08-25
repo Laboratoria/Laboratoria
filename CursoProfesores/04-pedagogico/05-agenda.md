@@ -6,7 +6,7 @@ Al igual que el objetivo de la clase, las alumnas al inicio de la clase deben sa
 
 La agenda deberá detallar los tiempos que tomará cada parte de la sesión. De esta manera, el profesor como las alumnas estarán conscientes de los tiempos.
 
-En este parte, se puede aprovechar de entregar las expectativas de comportamiento. Es decir, qué deben hacer ellas para que cada parte de la clase se cumpla. Ejemplo: a) “.... deberán estar concentradas y mirando mi explicación porque esta materia es más desafiente”, b) “... en esta parte de la clase deberán ser muy participativas porque…”.
+En esta parte, se puede aprovechar de entregar las expectativas de comportamiento. Es decir, qué deben hacer ellas para que cada parte de la clase se cumpla. Ejemplo: a) “.... deberán estar concentradas y mirando mi explicación porque esta materia es más desafiente”, b) “... en esta parte de la clase deberán ser muy participativas porque…”.
 
 
 
