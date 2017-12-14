@@ -1,6 +1,6 @@
 # Bienvenida y orientación
 
-Hola y bienvenid@ al proceso de inducción y capacitación que hemos preparado para los profesores de Laboratoria. Todo este curso es on-line salvo el último punto que es presencial.
+Hola y bienvenid@ al proceso de inducción y capacitación que hemos preparado para los instructores de Laboratoria. Todo este curso es on-line salvo el último punto que es presencial.
 
 En todo este proceso estarás acompañado por tu training manager, quien estará pendiente de tu avance.
 
